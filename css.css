@@ -1,0 +1,46 @@
+img {
+	width:100%;
+	height:80%;
+}
+
+td {
+	background-color:#b8dec7;
+	font-size:20px;
+}
+table {
+	border-style:solid;
+}
+th {
+	border-style:dashed;
+	background-color:#53db89;
+}
+.ind {
+   text-shadow: 2px 2px #e5d2f7;
+   font-weight: bold;
+   font-size:25px;
+   background-color:#abf7ca;
+   border-style:dashed;
+}
+.orange {
+	background-color:#e3ba34;
+}
+.green {
+	background-color:#40db35;
+}
+.purple {
+	background-color:#bd35db;
+}
+.blue {
+	background-color:#35c2db;
+}
+.red {
+	background-color:#db3535;
+}
+.yellow {
+	background-color:#d6d333;
+}
+.block:hover {
+    -webkit-transform: scale(1.1,1.1);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 225ms;
+}
